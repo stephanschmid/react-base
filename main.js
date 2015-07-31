@@ -1,6 +1,6 @@
 var React = require('react');
-var Navigation = require('./Navigation/Navigation');
-var PageRouter = require('./PageRouter/PageRouter');
+var Navigation = require('./components/Navigation/Navigation');
+var PageRouter = require('./components/PageRouter/PageRouter');
 var Router = require('react-router');
 var { Route, RouteHandler, Link } = Router;
 
